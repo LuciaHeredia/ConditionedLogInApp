@@ -8,6 +8,6 @@ A simple conditioned login app.
 * Password contains the current day(name) of the week.
 
 
-### App created with:
+## App created with:
 * Android version: 10
 * SDK version: 29
