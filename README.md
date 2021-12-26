@@ -4,7 +4,7 @@ A simple conditioned login app.
 
 ## The LogIn depends on 3 conditions together:
 * Mute mode is on.
-* Airplain mode is on.
+* Airplane mode is on.
 * Password contains the current day(name) of the week.
 
 
